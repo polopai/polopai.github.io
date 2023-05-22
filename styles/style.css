@@ -1,0 +1,29 @@
+html {
+    background-color: #21529a;
+}
+
+body {
+    background-color: #f19a37;
+    width: 600px;
+    margin: 0 auto;
+    border: solid black 5px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #21519a;
+    margin: 0 auto;
+    text-shadow: black 3px 3px 3px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 50px auto;
+    width: 300px;
+}
+
+p{
+    margin: 15px auto;
+}
